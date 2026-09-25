@@ -1,1 +1,1 @@
-# pokemarket-dalyx
+PokéMarket es una plataforma para consultar precios de cartas Pokémon de colección, integrar esos datos con tiendas mediante una API y gestionar subastas. También contempla herramientas para seguir tendencias y recibir alertas de precios.
